@@ -1,0 +1,11 @@
+# Java build output
+backend/out/
+*.class
+
+# Local runtime data (users, orders, stock)
+data/
+*.db
+
+# OS-generated files
+.DS_Store
+Thumbs.db
